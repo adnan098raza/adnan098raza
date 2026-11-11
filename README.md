@@ -1,9 +1,8 @@
 <h1 align="center">Hey, I'm Adnan Raza 🚀</h1>
 <h3 align="center">SAP Engineering & Analytics student · ex-Senior TechOps Engineer · building AI agents</h3>
 
-<!-- Replace YOUR-LINKEDIN with your handle, then delete this comment -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+  <a href="https://www.linkedin.com/in/adnan-raza-3908bb235/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
   &nbsp;
   <a href="https://github.com/adnan098raza?tab=repositories"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/></a>
 </p>
